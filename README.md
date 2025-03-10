@@ -12,9 +12,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medeiros-eric&show_icons=true&theme=dark)
 
-## 📂 Featured Projects
-- 📌 [**Project 1**](https://github.com/medeiros-eric/project1) - *Short description here*
-- 📌 [**Project 2**](https://github.com/medeiros-eric/project2) - *Short description here*
 
 ## 📝 Latest LinkedIn Posts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/medeiroseric/detail/recent-activity/)
