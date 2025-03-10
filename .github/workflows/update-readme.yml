@@ -31,4 +31,4 @@ jobs:
           git config --global user.name "GitHub Actions"
           git add README.md
           git commit -m "Updated LinkedIn posts" || exit 0
-          git push
+          git push 
