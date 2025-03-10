@@ -19,7 +19,7 @@
 ---
 ⭐ **Star this repo** if you like it! 🚀
 
-## 🔗 Latest LinkedIn Posts
+## 📝 Latest LinkedIn Posts
 <!-- START_LINKEDIN -->
 Fetching latest posts...
 <!-- END_LINKEDIN -->
